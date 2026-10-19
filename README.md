@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Yassir Karrouti" width="100%">
+  <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/banner.svg?v=2" alt="Yassir Karrouti" width="100%">
 </p>
 
 <h3 align="center">Full-Stack and AI Developer</h3>
@@ -13,7 +13,7 @@ Building web and mobile applications end to end and turning AI models into tools
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
+  <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
 </p>
 
 <h2 align="center">About Me</h2>
@@ -22,7 +22,7 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
 
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
+  <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
 </p>
 
 <h2 align="center">Featured Projects</h2>
@@ -38,7 +38,7 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
 | [**YOLO-ASL**](https://github.com/trxshi747/YOLO-ASL) | Real-time ASL alphabet recognition with a YOLO26 model, dataset, weights and webcam demo. | Python, Ultralytics |
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
+  <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
 </p>
 
 <h2 align="center">Connect</h2>
@@ -50,7 +50,7 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
+  <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
 </p>
 
 <h2 align="center">Tech Stack</h2>
@@ -68,7 +68,7 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
+  <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
 </p>
 
 <h2 align="center">GitHub Stats</h2>
@@ -80,21 +80,21 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
 </div>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
+  <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
 </p>
 
 <h2 align="center">Commit Activity</h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph.svg?v=2">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph-dark.svg?v=2">
   </picture>
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="">
+  <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
 </p>
 
 <h2 align="center">Philosophy</h2>
@@ -104,5 +104,5 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="">
+  <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/footer.svg?v=2" width="100%" alt="">
 </p>
