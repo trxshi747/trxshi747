@@ -104,7 +104,7 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=3500&color=D8B4FE&center=true&vCenter=true&width=320&height=50&lines=Philosophy" alt="Philosophy" /></h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Developer quote" />
+  <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/philosophy.svg?v=1" alt="to be a star you must burn." width="100%">
 </p>
 
 <p align="center">
