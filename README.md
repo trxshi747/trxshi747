@@ -83,14 +83,10 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
   <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
 </p>
 
-<h2 align="center">Commit Activity</h2>
+<h2 align="center">Contribution Constellation</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph-dark.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph.svg?v=3">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph-dark.svg?v=3">
-  </picture>
+  <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/output/constellation.svg?v=1" alt="Contribution constellation" width="100%">
 </p>
 
 <p align="center">
