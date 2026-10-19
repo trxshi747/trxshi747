@@ -16,7 +16,6 @@ Building web and mobile applications end to end and turning AI models into tools
 
 I am **Yassir Karrouti**, a developer who designs and delivers full-stack applications from the first idea to a live deployment, with **Java**, **Laravel**, **React** and **Symfony**.
 
-Java is a core part of my toolbox: **Java 17**, **Jakarta EE** (Servlets, JSP, JDBC), MVC and DAO architecture, unit tests with **JUnit 5** and **Mockito**, and CI pipelines with **Jenkins** and **SonarQube**. I complete this profile with AI: multimodal fact-checking, audio transcription and computer vision with YOLO.
 
 <h2 align="center">Featured Projects</h2>
 
