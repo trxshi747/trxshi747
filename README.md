@@ -5,7 +5,7 @@
 <h3 align="center">Full-Stack and AI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=D8B4FE&center=true&vCenter=true&width=760&height=60&lines=Java+%7C+Laravel+%7C+Symfony+%7C+React;Full-stack+web+and+mobile+applications;Computer+vision+and+applied+AI;Clean+code+and+real+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=D8B4FE&center=true&vCenter=true&width=760&height=60&lines=Java+%7C+Laravel+%7C+Symfony+%7C+React;Full-Stack+Web+and+Mobile+Applications;Computer+Vision+and+Applied+AI;Clean+Code+and+Real+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -46,6 +46,14 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
 <p align="center">
   <a href="https://github.com/trxshi747">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yassir-karrouti">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:tl4trxsh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
   </a>
 </p>
 
