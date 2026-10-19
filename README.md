@@ -1,0 +1,77 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Yassir%20Karrouti&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=trxshi747&descSize=18&descAlignY=60&animation=fadeIn" alt="Banner" width="100%">
+</p>
+
+<h3 align="center">Full-Stack and AI Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=760&height=60&lines=Java+%7C+Laravel+%7C+Symfony+%7C+React;Full-stack+web+and+mobile+applications;Computer+vision+and+applied+AI;Clean+code+and+real+products" alt="Typing SVG" />
+</p>
+
+<p align="center">
+Building web and mobile applications end to end and turning AI models into tools people can actually use.
+</p>
+
+<h2 align="center">About Me</h2>
+
+I am **Yassir Karrouti**, a developer who designs and delivers full-stack applications from the first idea to a live deployment, with **Java**, **Laravel**, **React** and **Symfony**.
+
+Java is a core part of my toolbox: **Java 17**, **Jakarta EE** (Servlets, JSP, JDBC), MVC and DAO architecture, unit tests with **JUnit 5** and **Mockito**, and CI pipelines with **Jenkins** and **SonarQube**. I complete this profile with AI: multimodal fact-checking, audio transcription and computer vision with YOLO.
+
+<h2 align="center">Featured Projects</h2>
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**RideShare (Carpooling)**](https://github.com/Abdelalimelah/Carpooling-Project) | Intercity carpooling platform with 3 roles, trip search, booking and reviews: 28 servlets, 20 JSP, 4 security filters, 38 test classes, Jenkins and SonarQube pipeline. | Java 17, Jakarta EE, MySQL |
+| [**OpenEMR DevOps Study**](https://github.com/trxshi747/openemr) | Cloud performance and scalability benchmark of OpenEMR across 5 configurations (Docker Compose, Kubernetes with manual scaling or HPA, Blue/Green), with k6 load tests at 5, 100 and 500 users and Prometheus and Grafana monitoring. | Docker, Kubernetes, k6, Grafana |
+| [**LOGZYPHER**](https://github.com/trxshi747/LOGZYPHER) | Log file analyzer and monitoring dashboard with severity stats, search, filters and a JWT-secured history. [Live](https://logzypher.vercel.app/) | Symfony, React, MySQL |
+| [**LyricSync**](https://github.com/trxshi747/LyricSync) | Real-time synced Spotify karaoke lyrics with Whisper AI transcription fallback and LLaMA 3.3 translation. [Live](https://lyricsync-live.vercel.app/) | React 19, Node.js, Groq |
+| [**TruthNet**](https://github.com/trxshi747/TruthNet) | Mobile social network against misinformation, with Gemini fact-checking and a FastAPI microservice running RoBERTa, DistilBERT and BART. | Flutter, Node.js, Neo4j |
+| [**Barbershop**](https://github.com/trxshi747/Barbershop) | Salon appointment booking platform with client, barber and admin roles and PayPal checkout. | Laravel, MySQL |
+| [**YOLO-ASL**](https://github.com/trxshi747/YOLO-ASL) | Real-time ASL alphabet recognition with a YOLO26 model, dataset, weights and webcam demo. | Python, Ultralytics |
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/trxshi747">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  </a>
+</p>
+
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,symfony,python,js,ts,react,nodejs,express,flutter,dart" alt="Languages and frameworks" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,threejs,mysql,mongodb,cassandra,fastapi,pytorch,opencv" alt="Frontend, databases and AI" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,prometheus,grafana,git,github,vercel,vscode" alt="DevOps and tools" />
+</p>
+
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=trxshi747&theme=tokyonight&hide_border=true&border_radius=8&ring=70A5FD&fire=70A5FD&currStreakNum=BB9AF7&sideNums=70A5FD&currStreakLabel=BB9AF7&sideLabels=70A5FD&dates=2AC3A2&stroke=E4E2E2&background=1A1B27" height="150" alt="GitHub streak" />
+
+</div>
+
+<h2 align="center">Commit Activity</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph-dark.svg">
+  </picture>
+</p>
+
+<h2 align="center">Philosophy</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
+</p>
