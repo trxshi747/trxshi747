@@ -87,9 +87,9 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph.svg?v=2">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph-dark.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph.svg?v=3">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/trxshi747/trxshi747/output/pacman-contribution-graph-dark.svg?v=3">
   </picture>
 </p>
 
