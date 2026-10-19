@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/banner.svg?v=2" alt="Yassir Karrouti" width="100%">
 </p>
 
-<h3 align="center">Full-Stack and AI Developer</h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=3500&color=D8B4FE&center=true&vCenter=true&width=508&height=50&lines=Full-Stack+and+AI+Developer" alt="Full-Stack and AI Developer" /></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=D8B4FE&center=true&vCenter=true&width=760&height=60&lines=Java+%7C+Laravel+%7C+Symfony+%7C+React;Full-Stack+Web+and+Mobile+Applications;Computer+Vision+and+Applied+AI;Clean+Code+and+Real+Products" alt="Typing SVG" />
@@ -16,7 +16,7 @@ Building web and mobile applications end to end and turning AI models into tools
   <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
 </p>
 
-<h2 align="center">About Me</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=3500&color=D8B4FE&center=true&vCenter=true&width=320&height=50&lines=About+Me" alt="About Me" /></h2>
 
 I am **Yassir Karrouti**, a developer who designs and delivers full-stack applications from the first idea to a live deployment, with **Java**, **Laravel**, **React** and **Symfony**.
 
@@ -25,7 +25,7 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
   <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
 </p>
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=3500&color=D8B4FE&center=true&vCenter=true&width=398&height=50&lines=Featured+Projects" alt="Featured Projects" /></h2>
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -41,7 +41,7 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
   <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
 </p>
 
-<h2 align="center">Connect</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=3500&color=D8B4FE&center=true&vCenter=true&width=320&height=50&lines=Connect" alt="Connect" /></h2>
 
 <p align="center">
   <a href="https://github.com/trxshi747">
@@ -61,7 +61,7 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
   <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
 </p>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=3500&color=D8B4FE&center=true&vCenter=true&width=320&height=50&lines=Tech+Stack" alt="Tech Stack" /></h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,symfony,python,js,ts,react,nodejs,express,flutter,dart" alt="Languages and frameworks" />
@@ -79,7 +79,7 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
   <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
 </p>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=3500&color=D8B4FE&center=true&vCenter=true&width=320&height=50&lines=GitHub+Stats" alt="GitHub Stats" /></h2>
 
 <div align="center">
 
@@ -91,7 +91,7 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
   <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
 </p>
 
-<h2 align="center">Contribution Constellation</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=3500&color=D8B4FE&center=true&vCenter=true&width=567&height=50&lines=Contribution+Constellation" alt="Contribution Constellation" /></h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/output/constellation.svg?v=1" alt="Contribution constellation" width="100%">
@@ -101,7 +101,7 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
   <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
 </p>
 
-<h2 align="center">Philosophy</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=3500&color=D8B4FE&center=true&vCenter=true&width=320&height=50&lines=Philosophy" alt="Philosophy" /></h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Developer quote" />
