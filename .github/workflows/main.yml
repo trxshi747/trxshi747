@@ -22,6 +22,15 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: "pacman"
 
+      - name: recolor SVGs to the profile palette
+        run: |
+          sed -i -E \
+            -e 's/#0e4429/#3b0764/gI' -e 's/#006d32/#6d28d9/gI' -e 's/#26a641/#a21caf/gI' -e 's/#39d353/#e879f9/gI' \
+            -e 's/#161b22/#120a22/gI' -e 's/#0d1117/#05010c/gI' -e 's/#8b949e/#a78bfa/gI' \
+            -e 's/#9be9a8/#e9d5ff/gI' -e 's/#40c463/#c084fc/gI' -e 's/#30a14e/#a855f7/gI' -e 's/#216e39/#6b21a8/gI' \
+            -e 's/#ebedf0/#f3e8ff/gI' \
+            dist/*.svg
+
       - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

@@ -5,7 +5,7 @@
 <h3 align="center">Full-Stack and AI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7FB2FF&center=true&vCenter=true&width=760&height=60&lines=Java+%7C+Laravel+%7C+Symfony+%7C+React;Full-stack+web+and+mobile+applications;Computer+vision+and+applied+AI;Clean+code+and+real+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=D8B4FE&center=true&vCenter=true&width=760&height=60&lines=Java+%7C+Laravel+%7C+Symfony+%7C+React;Full-stack+web+and+mobile+applications;Computer+vision+and+applied+AI;Clean+code+and+real+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=trxshi747&theme=tokyonight&hide_border=true&border_radius=8&ring=70A5FD&fire=70A5FD&currStreakNum=BB9AF7&sideNums=70A5FD&currStreakLabel=BB9AF7&sideLabels=70A5FD&dates=2AC3A2&stroke=E4E2E2&background=1A1B27" height="150" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=trxshi747&hide_border=true&border_radius=8&background=0B0614&stroke=4C1D95&ring=D946EF&fire=E11BFF&currStreakNum=FFFFFF&currStreakLabel=F0ABFC&sideNums=C084FC&sideLabels=A78BFA&dates=C4B5FD" height="150" alt="GitHub streak" />
 
 </div>
 
@@ -100,7 +100,7 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
 <h2 align="center">Philosophy</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Developer quote" />
 </p>
 
 <p align="center">
