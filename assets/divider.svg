@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 24" width="100%" role="presentation">
+<defs>
+  <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#4f8cff" stop-opacity="0"/><stop offset="0.5" stop-color="#7c5cff"/><stop offset="1" stop-color="#4f8cff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="s" gradientUnits="userSpaceOnUse" x1="-200" x2="0" y1="0" y2="0"><stop offset="0" stop-color="#9ec5ff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#9ec5ff" stop-opacity="0"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1200 0" dur="3.5s" repeatCount="indefinite"/></linearGradient>
+  <filter id="g" x="-10%" y="-400%" width="120%" height="900%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect x="0" y="11" width="1000" height="2" fill="url(#l)" opacity="0.55"/>
+<rect x="0" y="11" width="1000" height="2" fill="url(#s)"/>
+<rect x="0" y="10" width="1000" height="4" fill="url(#s)" filter="url(#g)" opacity="0.8"/>
+<path d="M500 3 L507 12 L500 21 L493 12 Z" fill="#05060f" stroke="#7c5cff" stroke-width="1.2"><animate attributeName="stroke" values="#4f8cff;#b69cff;#4f8cff" dur="4s" repeatCount="indefinite"/></path>
+</svg>
