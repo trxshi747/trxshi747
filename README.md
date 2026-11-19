@@ -37,6 +37,7 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
 | [**Barbershop**](https://github.com/trxshi747/Barbershop) | Salon appointment booking platform with client, barber and admin roles and PayPal checkout. | Laravel, MySQL |
 | [**YOLO-ASL**](https://github.com/trxshi747/YOLO-ASL) | Real-time ASL alphabet recognition with a YOLO26 model, dataset, weights and webcam demo. | Python, Ultralytics |
 | [**CareerForge**](https://github.com/mtgfz/careerforge) | AI multi-agent CV generator: LLM agents (job analyst, retriever, writer and critic) orchestrated with LangGraph use RAG over your own documents to write a CV tailored to each offer, while an LLM judge scores faithfulness so no experience is invented. Also generates a cover letter and interview questions. | Python, LangGraph, RAG, FastAPI, React |
+| [**Monopoly Online**](https://github.com/trxshi747/Original-Monopoly-Online) | Online multiplayer version of EA's Monopoly Classic for 2 to 6 friends: the Flash game was decompiled and patched into a deterministic lockstep simulation running in every browser through Ruffle, with a zero-dependency Node relay, a lobby, automatic rejoin after a refresh and a host override for stuck dialogs. | ActionScript 3, Ruffle, Node.js |
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
