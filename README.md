@@ -36,6 +36,7 @@ I am **Yassir Karrouti**, a developer who designs and delivers full-stack applic
 | [**TruthNet**](https://github.com/trxshi747/TruthNet) | Mobile social network against misinformation, with Gemini fact-checking and a FastAPI microservice running RoBERTa, DistilBERT and BART. | Flutter, Node.js, Neo4j |
 | [**Barbershop**](https://github.com/trxshi747/Barbershop) | Salon appointment booking platform with client, barber and admin roles and PayPal checkout. | Laravel, MySQL |
 | [**YOLO-ASL**](https://github.com/trxshi747/YOLO-ASL) | Real-time ASL alphabet recognition with a YOLO26 model, dataset, weights and webcam demo. | Python, Ultralytics |
+| [**CareerForge**](https://github.com/mtgfz/careerforge) | Fact-grounded CV generator: your own documents feed a vector knowledge base, then a LangGraph Writer and Critic loop writes a CV tailored to each job offer where every bullet cites its evidence, with a cover letter and interview questions. | Python, FastAPI, LangGraph, React |
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/trxshi747/trxshi747/main/assets/divider.svg?v=2" width="100%" alt="">
